@@ -7,7 +7,7 @@
 ## 💡 The Problem & The Solution
 Most coaching institutes struggle with repetitive student queries—fees, timings, and course details. Humans can't be online 24/7, and traditional bots are too slow. 
 
-**Nova AI** solves this by using **Llama 3**, providing instant, accurate, and polite responses. I focused on making the interaction feel "live" with smooth animations and a typing indicator so students know they're being heard
+**Nova AI** solves this by using **Llama 3**, providing instant, accurate, and polite responses. I focused on making the interaction feel "live" with smooth animations and a typing indicator so students know they're being heard.
 
 
 
